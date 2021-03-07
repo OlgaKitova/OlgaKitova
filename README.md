@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi, my name is Olga 👋
+## I'm beginner front-end development
 
-<!--
-**OlgaKitova/OlgaKitova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ***Contacts***
++ _Phone_ ***+7 (919) 352-30-83***
++ _Telegram_ ***<https://t.me/OlgaKitova>***
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ***Skills***
+
++ HTML (PUG)
++ CSS (SCSS)
++ JAVA SCRIPT (basic level, DOM)
++ GIT
++ GULP
++ WEBPACK
+---
+
+### ***Experience***
+
+Learning experience:
++  [Site for photographer](https://dubrovskaya-photo.ru/)
++  [Irvas](https://olgakitova.github.io/windowsSite/dist/index.html)
++  [Timer](https://olgakitova.github.io/timeNewYear/timer/)
++  [WordSkills project](https://olgakitova.github.io/projectbyWorldSkills/)
++  [E-mail](https://olgakitova.github.io/first-mail/index.html)
+
+---
+
+### ***Education***
+
++ Codecademy (Web Development)
++ South-Ural State Technical College (Front-end Development technologies)
++ Udemy, author: Ivan Petrichenko (Java Script)
+
+---
