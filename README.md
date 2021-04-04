@@ -21,7 +21,7 @@
 
 Learning and commercial experience:
 +  [Site for photographer](https://dubrovskaya-photo.ru/)
-+  [ArtSite](https://olgakitova.github.io/artSite/dist)
++  [Virtual piano](https://olgakitova.github.io/virtual__piano/)
 +  [Irvas](https://olgakitova.github.io/windowsSite/dist/index.html)
 +  [Timer](https://olgakitova.github.io/timeNewYear/timer/)
 +  [WordSkills project](https://olgakitova.github.io/projectbyWorldSkills/)
