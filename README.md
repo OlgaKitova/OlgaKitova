@@ -34,5 +34,6 @@ Learning and commercial experience:
 + Codecademy (Web Development)
 + South-Ural State Technical College (Front-end Development technologies)
 + Udemy, author: Ivan Petrichenko (Java Script)
++ Rolling Scopes School (in the process of studying)
 
 ---
