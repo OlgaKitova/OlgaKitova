@@ -8,10 +8,10 @@
 ---
 
 ### ***Skills***
-
++ React
++ Vanilla JS
 + HTML (PUG)
 + CSS (SCSS)
-+ JAVA SCRIPT (basic level, DOM)
 + GIT
 + GULP
 + WEBPACK
@@ -20,12 +20,11 @@
 ### ***Experience***
 
 Learning and commercial experience:
++  [React Tetris Game](https://olgakitova.github.io/tetris/)
 +  [Site for photographer](https://dubrovskaya-photo.ru/)
 +  [Virtual piano](https://olgakitova.github.io/virtual__piano/)
-+  [Irvas](https://olgakitova.github.io/windowsSite/dist/index.html)
-+  [Timer](https://olgakitova.github.io/timeNewYear/timer/)
 +  [WordSkills project](https://olgakitova.github.io/projectbyWorldSkills/)
-+  [E-mail](https://olgakitova.github.io/first-mail/index.html)
++  [Timer](https://olgakitova.github.io/timeNewYear/timer/)
 
 ---
 
