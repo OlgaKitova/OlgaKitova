@@ -22,9 +22,9 @@
 Learning and commercial experience:
 +  [React Tetris Game](https://olgakitova.github.io/tetris/)
 +  [Site for photographer](https://dubrovskaya-photo.ru/)
++  [Photo Philter](https://olgakitova.github.io/photo__philter/photo-filter/)
 +  [Virtual piano](https://olgakitova.github.io/virtual__piano/)
 +  [WordSkills project](https://olgakitova.github.io/projectbyWorldSkills/)
-+  [Timer](https://olgakitova.github.io/timeNewYear/timer/)
 
 ---
 
