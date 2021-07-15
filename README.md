@@ -8,8 +8,9 @@
 ---
 
 ### ***Skills***
-+ React
++ React, Redux
 + Vanilla JS
++ Node.js (Express.js, Socket.io)
 + HTML (PUG)
 + CSS (SCSS)
 + GIT
@@ -32,9 +33,10 @@ Learning and commercial experience:
 
 ### ***Education***
 
-+ Codecademy (Web Development)
 + South-Ural State Technical College (Front-end Development technologies)
++ Codecademy (Web Development)
 + Udemy, author: Ivan Petrichenko (Java Script)
-+ Rolling Scopes School (in the process of studying)
++ Rolling Scopes School (stage1)
 
 ---
+
