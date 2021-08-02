@@ -1,5 +1,5 @@
 # Hi, my name is Olga 👋
-## I'm beginner front-end development
+## I'm front-end developer
 
 ### ***Contacts***
 + _Phone_ ***+7 (919) 352-30-83***
