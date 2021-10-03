@@ -8,19 +8,26 @@
 ---
 
 ### ***Skills***
-+ React, Redux
++ ReactJS
++ Redux, redux-thunk
++ React Router
 + Vanilla JS
 + Node.js (Express.js, Socket.io)
++ Установка и настройка сторонних api (nodemailer, sms_ru, osano, jivosite)
++ MongoDB, mongoose
++ Axios
 + HTML (PUG)
 + CSS (SCSS)
 + GIT
 + GULP
 + WEBPACK
++ Bcryptjs
 ---
 
 ### ***Experience***
 
 Learning and commercial experience:
++  [Bizzarro - online-catalog](https://bizzarro74.ru)
 +  [React Tetris Game](https://olgakitova.github.io/tetris/)
 +  [Site for photographer](https://dubrovskaya-photo.ru/)
 +  [Mini live chat](https://minilivechat.herokuapp.com/)
