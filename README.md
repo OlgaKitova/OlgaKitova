@@ -21,7 +21,6 @@
 + GIT
 + GULP
 + WEBPACK
-+ Bcryptjs
 ---
 
 ### ***Experience***
