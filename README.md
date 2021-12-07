@@ -26,6 +26,7 @@
 ### ***Experience***
 
 Learning and commercial experience:
++  Обновление визуальной части сервиса Jrobot.pro
 +  [Bizzarro - online-catalog](https://bizzarro74.ru)
 +  [React Tetris Game](https://olgakitova.github.io/tetris/)
 +  [Site for photographer](https://dubrovskaya-photo.ru/)
