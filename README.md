@@ -1,49 +1,50 @@
-# Hi, my name is Olga 👋
-## I'm front-end developer
+## Hi, I'm Olga 👋
+### Frontend developer
 
 ### ***Contacts***
 + _Phone_ ***+7 (919) 352-30-83***
 + _Telegram_ ***<https://t.me/OlgaKitova>***
 
 ---
-
-### ***Skills***
-+ ReactJS
-+ Redux, redux-thunk
-+ React Router
-+ Vanilla JS
-+ Node.js (Express.js, Socket.io)
-+ Установка и настройка сторонних api (nodemailer, sms_ru, osano, jivosite)
-+ MongoDB, mongoose
-+ Axios
+### ***Technologies***
 + HTML (PUG)
 + CSS (SCSS)
 + GIT
-+ GULP
-+ WEBPACK
+#### ***Programming languages***
++ ECMAScript
+#### ***Libraries and frameworks***
++ ReactJS|Redux|React Router
++ Node.js (Express.js, Socket.io)
+#### ***Databases***
++ MongoDB
+#### ***Development environments***
++ VSCode
++ WebStorm
+#### ***Assembly tools***
++ Gulp
+### ***Other***
++ Installing and configuring third-party APIs (nodemailer, sms_ru, osano, jivosite)
 ---
 
 ### ***Experience***
 
 Learning and commercial experience:
-+  Обновление визуальной части сервиса Jrobot.pro
++  [Обновление визуальной части сервиса Jrobot.pro](https://app.jrobot.pro)
 +  [Bizzarro - online-catalog](https://bizzarro74.ru)
 +  [React Tetris Game](https://olgakitova.github.io/tetris/)
 +  [Site for photographer](https://dubrovskaya-photo.ru/)
 +  [Mini live chat](https://minilivechat.herokuapp.com/)
 +  [Photo Filter](https://olgakitova.github.io/photo__filter/photo-filter/)
 +  [Virtual piano](https://olgakitova.github.io/virtual__piano/)
-+  [Resto Wok Online](https://react-resto-wok.netlify.app/)
-+  [WordSkills project](https://olgakitova.github.io/projectbyWorldSkills/)
 
 ---
 
 ### ***Education***
 
-+ South-Ural State Technical College (Front-end Development technologies)
-+ Codecademy (Web Development)
-+ Udemy, author: Ivan Petrichenko (Java Script)
-+ Rolling Scopes School (stage1)
++ Rolling Scopes School (stage1) -2021
++ South-Ural State Technical College (Frontend Development technologies) - 2020
++ Codecademy (Web Development) - 2020
++ Udemy, author: Ivan Petrichenko (Java Script) - 2020
 
 ---
 
