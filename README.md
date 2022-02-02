@@ -8,13 +8,11 @@
 
 ---
 ### ***Technologies***
-+ HTML (PUG)
-+ CSS (SCSS)
-+ GIT
+HTML (PUG) | CSS (SCSS) | GIT
 #### ***Programming languages***
 + ECMAScript
 #### ***Libraries and frameworks***
-+ ReactJS|Redux|React Router
++ ReactJS | Redux | Router
 + Node.js (Express.js, Socket.io)
 #### ***Databases***
 + MongoDB
@@ -48,4 +46,7 @@ Learning and commercial experience:
 + Udemy, author: Ivan Petrichenko (Java Script) - 2020
 
 ---
-
+[<img src="https://user-images.githubusercontent.com/69972105/152214596-18ae29b0-bc8a-41e1-a131-845d13377457.jpg" height="150"/>](https://user-images.githubusercontent.com/69972105/152214596-18ae29b0-bc8a-41e1-a131-845d13377457.jpg)
+[<img src="https://user-images.githubusercontent.com/69972105/152217418-5edebe97-7ab0-42c2-8d19-fd936a8fa08a.jpg" height="150"/>](https://user-images.githubusercontent.com/69972105/152217418-5edebe97-7ab0-42c2-8d19-fd936a8fa08a.jpg)
+[<img src="https://user-images.githubusercontent.com/69972105/152217427-b9c47a0f-de30-4258-a8dc-a8d13b8e09d9.jpg" height="150"/>](https://user-images.githubusercontent.com/69972105/152217427-b9c47a0f-de30-4258-a8dc-a8d13b8e09d9.jpg)
+[<img src="https://user-images.githubusercontent.com/69972105/152217401-8ebd29b1-3714-490b-a984-84a26f3eb044.jpg" height="150"/>](https://user-images.githubusercontent.com/69972105/152217401-8ebd29b1-3714-490b-a984-84a26f3eb044.jpg)
