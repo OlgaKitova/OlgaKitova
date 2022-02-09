@@ -29,7 +29,7 @@ HTML (PUG) | CSS (SCSS) | GIT
 ### ***Experience***
 
 Learning and commercial experience:
-+  [Обновление визуальной части сервиса Jrobot.pro](https://app.jrobot.pro)
++  [Updating the visual part of the service Jrobot.pro](https://app.jrobot.pro)
 +  [Bizzarro - online-catalog](https://bizzarro74.ru)
 +  [React Tetris Game](https://olgakitova.github.io/tetris/)
 +  [Site for photographer](https://dubrovskaya-photo.ru/)
