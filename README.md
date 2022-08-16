@@ -11,7 +11,7 @@
 ### ***Technologies***
 HTML (PUG) | CSS (SCSS) | GIT
 #### ***Programming languages***
-+ ECMAScript
++ JavaScript/ TypeScript
 #### ***Libraries and frameworks***
 + ReactJS | Redux | Router
 + Node.js (Express.js, Socket.io)
@@ -32,7 +32,6 @@ Learning and commercial experience:
 +  [Updating the visual part of the service Jrobot.pro](https://app.jrobot.pro)
 +  [Bizzarro - online-catalog](https://bizzarro74.ru)
 +  [React Tetris Game](https://olgakitova.github.io/tetris/)
-+  [Site for photographer](https://dubrovskaya-photo.ru/)
 +  [Mini live chat](https://minilivechat.herokuapp.com/)
 +  [Photo Filter](https://olgakitova.github.io/photo__filter/photo-filter/)
 +  [Virtual piano](https://olgakitova.github.io/virtual__piano/)
