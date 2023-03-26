@@ -47,6 +47,8 @@ Learning and commercial experience:
 ---
 #### Participation in the event of the VII International IT Forum 2022
 [<img src="https://user-images.githubusercontent.com/69972105/154848845-732ef85d-095c-4c26-b8a9-58482b2c08fb.jpg" height="150"/>](https://user-images.githubusercontent.com/69972105/154848845-732ef85d-095c-4c26-b8a9-58482b2c08fb.jpg)
+#### TypeScript Intensive
+[<img src="https://user-images.githubusercontent.com/69972105/227786092-506b2d9e-10a6-41b9-aeea-cad46a795f93.jpg" height="150"/>](https://user-images.githubusercontent.com/69972105/227786092-506b2d9e-10a6-41b9-aeea-cad46a795f93.jpg)
 ---
 #### Certificates from Codecademy
 [<img src="https://user-images.githubusercontent.com/69972105/152214596-18ae29b0-bc8a-41e1-a131-845d13377457.jpg" height="150"/>](https://user-images.githubusercontent.com/69972105/152214596-18ae29b0-bc8a-41e1-a131-845d13377457.jpg)
